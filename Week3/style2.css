@@ -1,0 +1,21 @@
+p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+body {
+    background-color: rgb(255, 181, 224);
+}
+
+hr {
+    border: 2px solid rgb(248, 47, 211);
+}
+div {
+    border: 5px dashed rgb(255, 30, 233);
+    color:rgb(242, 0, 255);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+}
